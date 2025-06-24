@@ -1,2 +1,6 @@
-# requirements.txt
-# Placeholder for requirements.txt content
+streamlit
+pandas
+numpy
+matplotlib
+requests
+boto3
