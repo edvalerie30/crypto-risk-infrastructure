@@ -1,0 +1,2 @@
+# requirements.txt
+# Placeholder for requirements.txt content
